@@ -6,7 +6,9 @@
 // (Don't just say 'we console log the variable' -- instead say something like 'we console log 'yes'')
 
 
-// 0. WRITE YOUR DESCRIPTION HERE
+// 0. number ++; will go up by 1;
+// which will now read if (2 >= 2) console.log('yes')
+// it will show in the console 'yes' because 2 is equal to 2.
 // //EXAMPLE. We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 2 is equal to 2, so
@@ -25,11 +27,9 @@ if (number >= 2) {
 */
 
 
-// 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
 //
+//1. since name 'dane' in not === 'mary' it will go the else statement and console log 'How do you do?'
+
 
 //CODE
 /*
@@ -42,10 +42,8 @@ if (name === 'Mary') {
 }
 
 
-*/
-
-// 2. WRITE YOUR DESCRIPTION HERE
-// 
+// 2. reading code if (123 === 123) set secret to "super" line 62 + 63 wont run because 246 is not greater then 250.
+console will log 'super' since 123 is equal to 123 
 // 
 // 
 //
@@ -69,11 +67,12 @@ console.log(secret)
 
 */
 
-// 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// 3. since isStudent = true
+// true is equal to true & 55404 is not greater then 80000
+//it will move to the next line
+//since true is not === to false and age is greater then 30 it will move to the next statement. 
+// since true is === to true
+// console will log 'Welcome to Prime'
 
 //CODE
 /*
